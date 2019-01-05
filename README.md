@@ -9,3 +9,5 @@ Using markdown, answer the following questions.
 #### 2. When analyzing data, what are your favorite applications?
 
 #### 3. What do you hope to get out of this class?
+
+#### 4. Have you used github before?
